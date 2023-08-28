@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\bin\Debug\VentasCelPOO.exe.config
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\bin\Debug\VentasCelPOO.exe
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\bin\Debug\VentasCelPOO.pdb
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.Form1.resources
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.Properties.Resources.resources
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.exe
+C:\Users\Alumno\Desktop\VentasCelPOO\VentasCelPOO\obj\Debug\VentasCelPOO.pdb

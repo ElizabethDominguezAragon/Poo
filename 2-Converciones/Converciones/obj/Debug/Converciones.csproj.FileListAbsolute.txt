@@ -1,0 +1,17 @@
+C:\Users\Alumno\source\repos\Converciones\Converciones\obj\Debug\Converciones.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Converciones\Converciones\obj\Debug\Converciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Converciones\Converciones\obj\Debug\Converciones.FrmPrincipal.resources
+C:\Users\Alumno\source\repos\Converciones\Converciones\obj\Debug\Converciones.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Converciones\Converciones\obj\Debug\Converciones.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Converciones\Converciones\obj\Debug\Converciones.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.Form1.resources
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Converciones\Converciones\bin\Debug\Converciones.exe.config
+C:\Users\Alumno\Desktop\Converciones\Converciones\bin\Debug\Converciones.exe
+C:\Users\Alumno\Desktop\Converciones\Converciones\bin\Debug\Converciones.pdb
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.exe
+C:\Users\Alumno\Desktop\Converciones\Converciones\obj\Debug\Converciones.pdb
