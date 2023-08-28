@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\bin\Debug\Ejercico3_BoletoDeAutobus.exe.config
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\bin\Debug\Ejercico3_BoletoDeAutobus.exe
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\bin\Debug\Ejercico3_BoletoDeAutobus.pdb
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.CalcularBoletoAutobus.resources
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.exe
+C:\Users\Alumno\Desktop\Ejercico3_BoletoDeAutobus\obj\Debug\Ejercico3_BoletoDeAutobus.pdb
